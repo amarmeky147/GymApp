@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# SQL Server local DB
+*.mdf
+*.ldf
+
+# Logs
+*.log
